@@ -34,7 +34,7 @@
 [email-shield]: https://img.shields.io/badge/Email-4F4A45.svg?style=for-the-badge&logo=gmail
 [email-url]: mailto:anjali.bohra2111@gmail.com
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-4F4A45.svg?style=for-the-badge&logo=linkedin&logoColor=blue
-[linkedin-url]: https://www.linkedin.com/in/anjali-bohra-790968199/
+[linkedin-url]: https://www.linkedin.com/in/anjali-bohra/
 [leetcode-shield]: https://img.shields.io/badge/LeetCode-4F4A45.svg?style=for-the-badge&logo=leetcode
 [leetcode-url]: https://leetcode.com/Anjali_75/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
