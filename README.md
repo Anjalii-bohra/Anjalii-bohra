@@ -1,7 +1,8 @@
 ### Hi there 👋
-### I am Anjali Bohra, a fourth-year B.E. Computer Science Engineering student passionate about coding and web development. With a knack for problem-solving and a love for competitive coding, I've honed my skills through various contests, projects, and internships.
-### I love learning about new tools, technologies and frameworks and am always eager to discover more. Besides coding, I enjoy reading books, sharing ideas, and creating a space where we all learn and grow together in the tech world.
 
+I'm currently working on Full Stack Web Development.<br>
+I'm looking to collaborate on Web Development projects.<br>
+I'm presently learning .NET Core Framework.
 
 ## GitHub Stats 
 
@@ -61,6 +62,11 @@
 [BitBucket]: https://img.shields.io/badge/BitBucket-20232A?style=for-the-badge&logo=bitbucket
 [BitBucket-url]: https://bitbucket.org/
 
+
+---
+[![](https://visitcount.itsvg.in/api?id=Anjalii-bohra&label=Profile%20Views&color=7&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+
 <!--
 **Anjalii-bohra/Anjalii-bohra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -74,5 +80,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+I am Anjali, a fourth-year B.E. Computer Science Engineering student passionate about coding and web development. With a knack for problem-solving and a love for competitive coding, I've honed my skills through various contests, projects, and internships.<br>
+I love learning about new tools, technologies and frameworks and am always eager to discover more. Besides coding, I enjoy reading books, sharing ideas, and creating a space where we all learn and grow together in the tech world.<br>
 -->
 
