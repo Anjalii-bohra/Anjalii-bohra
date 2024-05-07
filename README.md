@@ -5,8 +5,9 @@
 
 ## GitHub Stats 
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Anjalii-bohra&theme=ambient_gradient)](https://streak-stats.demolab.com?user=Anjalii-bohra&theme=ambient_gradient) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Anjalii-bohra&theme=ocean_gradient)](https://streak-stats.demolab.com?user=Anjalii-bohra&theme=ambient_gradient)
+![](https://github-readme-stats.vercel.app/api?username=Anjalii-bohra&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Anjalii-bohra&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjalii-bohra&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## Skills
 
