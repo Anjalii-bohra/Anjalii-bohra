@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm currently working on Full Stack Web Development.<br>
-I'm looking to collaborate on Web Development projects.<br>
+I'm currently working on Full Stack Web Development and am looking to collaborate on Web Development projects.<br>
 I'm presently learning .NET Core Framework.
 
 ## GitHub Stats 
