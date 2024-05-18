@@ -1,13 +1,6 @@
-### Hi there 👋
+### Hi there,👋
 
-I'm currently working on Full Stack Web Development and am looking to collaborate on Web Development projects.<br>
-I'm presently learning .NET Core Framework.
-
-## GitHub Stats 
-
-![](https://github-readme-stats.vercel.app/api?username=Anjalii-bohra&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anjalii-bohra&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjalii-bohra&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=Anjalii-bohra&label=Profile%20Views&color=7&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ## Skills
 
@@ -22,6 +15,12 @@ I'm presently learning .NET Core Framework.
 [![Rest][Rest]][Rest-url]
 [![API][API]][API-url]
 [![BitBucket][BitBucket]][BitBucket-url]
+
+## GitHub Stats 
+
+![](https://github-readme-stats.vercel.app/api?username=Anjalii-bohra&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Anjalii-bohra&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjalii-bohra&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## Socials
@@ -62,8 +61,6 @@ I'm presently learning .NET Core Framework.
 [BitBucket-url]: https://bitbucket.org/
 
 
----
-[![](https://visitcount.itsvg.in/api?id=Anjalii-bohra&label=Profile%20Views&color=7&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 
 <!--
